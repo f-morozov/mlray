@@ -1,4 +1,0 @@
-mlray
-=====
-
-My Little Raytracer

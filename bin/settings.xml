@@ -1,0 +1,6 @@
+<CameraPosition>500 -500 500</CameraPosition>
+<ViewDirection>0 1 0</ViewDirection>
+<ViewAngle>80 80</ViewAngle>
+<Resolution>256 256</Resolution>
+<TraceDepth>5</TraceDepth>
+<Subpixels>1</Subpixels>
